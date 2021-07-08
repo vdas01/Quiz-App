@@ -1,4 +1,5 @@
-![quiz](https://user-images.githubusercontent.com/72196604/124972576-2f412e00-e048-11eb-922b-63e7c24e3327.JPG)
+![quiz](https://user-images.githubusercontent.com/72196604/124973697-81368380-e049-11eb-82d2-411d0ceca930.JPG)
+
 # Quiz-App
 # https://vdas01.github.io/Quiz-App/
 
