@@ -82,3 +82,33 @@ ol{
  .scoreArea{
      display: none;
  }
+ @media screen and (max-width: 480px){
+    .heading {
+        text-align: center;
+    font-size: 2.8rem;
+    margin-bottom: 35px;
+    text-decoration: underline;
+    letter-spacing: 0px;
+    word-spacing: 6px;
+    text-shadow: 2px 2px 2px rgb(160 185 123);
+    }
+    .centre_div {
+        border: 2px solid black;
+        width: 91vw;
+        height: 68vh;
+        text-align: center;
+        padding: 12px 8px;
+        background: rgb(86,220,231);
+        background: linear-gradient( 28deg,  rgba(86,220,231,1) 28%, rgba(52,198,52,1) 70%);
+        box-shadow: 4px 4px 4px black;
+    }
+    .question {
+        font-size: 19px;
+        margin-bottom: 12px;
+    }
+    .options {
+        font-size: 20px;
+        font-family: 'Prompt', sans-serif;
+        font-weight: bold;
+    }
+ } 
